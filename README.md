@@ -69,13 +69,13 @@ where `mu` is the mean and `sigma > 0` is the standard deviation.
 ## Usage
 
 ```javascript
-import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@deno/mod.js';
+import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@v0.2.1-deno/mod.js';
 ```
 
 #### mgf( t, mu, sigma )
@@ -152,7 +152,7 @@ y = mymgf( 0.5 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@deno/mod.js';
+import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@v0.2.1-deno/mod.js';
 
 var sigma;
 var mu;
