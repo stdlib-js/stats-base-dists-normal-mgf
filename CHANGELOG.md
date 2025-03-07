@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-03)
+## Unreleased (2025-03-07)
+
+<section class="features">
+
+### Features
+
+-   [`aec0e88`](https://github.com/stdlib-js/stdlib/commit/aec0e8848ed94f8df559aec221a457ff3e27f8f2) - add C implementation for `stats/base/dists/normal/mgf` [(#4373)](https://github.com/stdlib-js/stdlib/pull/4373)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3778](https://github.com/stdlib-js/stdlib/issues/3778)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`aec0e88`](https://github.com/stdlib-js/stdlib/commit/aec0e8848ed94f8df559aec221a457ff3e27f8f2) - **feat:** add C implementation for `stats/base/dists/normal/mgf` [(#4373)](https://github.com/stdlib-js/stdlib/pull/4373) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
