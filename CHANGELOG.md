@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-13)
+## Unreleased (2025-05-26)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`26490b7`](https://github.com/stdlib-js/stdlib/commit/26490b70b5ed23d5e2dd7b3d1884e6d389aae524) - **chore:** address commit comment [(#5953)](https://github.com/stdlib-js/stdlib/pull/5953) _(by Harsh)_
 -   [`aec0e88`](https://github.com/stdlib-js/stdlib/commit/aec0e8848ed94f8df559aec221a457ff3e27f8f2) - **feat:** add C implementation for `stats/base/dists/normal/mgf` [(#4373)](https://github.com/stdlib-js/stdlib/pull/4373) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
@@ -48,9 +49,10 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Harsh
+-   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
