@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2025-12-20)
 
 <section class="features">
 
@@ -34,8 +34,13 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`6fe0761`](https://github.com/stdlib-js/stdlib/commit/6fe0761c9b399fae0e81992d5dda665cebaee019) - **docs:** replace manual `for` loop in examples [(#9055)](https://github.com/stdlib-js/stdlib/pull/9055) _(by Harsh Yadav)_
+-   [`d61ac9c`](https://github.com/stdlib-js/stdlib/commit/d61ac9c7ba00677bfde2c2fbc039db20ef9b2ce2) - **docs:** fix README sections _(by Athan Reines)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
--   [`26490b7`](https://github.com/stdlib-js/stdlib/commit/26490b70b5ed23d5e2dd7b3d1884e6d389aae524) - **chore:** address commit comment [(#5953)](https://github.com/stdlib-js/stdlib/pull/5953) _(by Harsh)_
+-   [`26490b7`](https://github.com/stdlib-js/stdlib/commit/26490b70b5ed23d5e2dd7b3d1884e6d389aae524) - **chore:** address commit comment [(#5953)](https://github.com/stdlib-js/stdlib/pull/5953) _(by Harsh Yadav)_
 -   [`aec0e88`](https://github.com/stdlib-js/stdlib/commit/aec0e8848ed94f8df559aec221a457ff3e27f8f2) - **feat:** add C implementation for `stats/base/dists/normal/mgf` [(#4373)](https://github.com/stdlib-js/stdlib/pull/4373) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
@@ -49,9 +54,10 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Athan Reines
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
