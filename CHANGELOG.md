@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-20)
+## Unreleased (2026-01-26)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`53c6e6c`](https://github.com/stdlib-js/stdlib/commit/53c6e6c6d4c9f0ce1d2ebfb19f340d1879c8e8ae) - **bench:** update random value generation [(#9891)](https://github.com/stdlib-js/stdlib/pull/9891) _(by Harsh Yadav, Athan Reines)_
 -   [`580e56b`](https://github.com/stdlib-js/stdlib/commit/580e56be6f8ef13e7cefadfa73ac1406ee9bf342) - **docs:** fix missing closing comment _(by Athan Reines)_
 -   [`6fe0761`](https://github.com/stdlib-js/stdlib/commit/6fe0761c9b399fae0e81992d5dda665cebaee019) - **docs:** replace manual `for` loop in examples [(#9055)](https://github.com/stdlib-js/stdlib/pull/9055) _(by Harsh Yadav)_
 -   [`d61ac9c`](https://github.com/stdlib-js/stdlib/commit/d61ac9c7ba00677bfde2c2fbc039db20ef9b2ce2) - **docs:** fix README sections _(by Athan Reines)_
