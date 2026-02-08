@@ -69,13 +69,13 @@ where `mu` is the mean and `sigma > 0` is the standard deviation.
 ## Usage
 
 ```javascript
-import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@esm/index.mjs';
+import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@v0.3.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@v0.3.1-esm/index.mjs';
 ```
 
 #### mgf( t, mu, sigma )
@@ -158,7 +158,7 @@ y = mymgf( 0.5 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@esm/index.mjs';
+import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mgf@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
