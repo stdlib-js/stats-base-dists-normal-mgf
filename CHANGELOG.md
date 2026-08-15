@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-08-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e0fb5df`](https://github.com/stdlib-js/stdlib/commit/e0fb5df563511383d03e5615ef649ac1c07568aa) - **test:** migrate `stats/base/dists/normal/mgf` to ULP-based assertions [(#14302)](https://github.com/stdlib-js/stdlib/pull/14302) _(by Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`6c38993`](https://github.com/stdlib-js/stdlib/commit/6c38993a7eabe55b575ff98f2b997eb31a146eef) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
